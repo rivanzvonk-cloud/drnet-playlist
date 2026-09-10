@@ -24,6 +24,6 @@ class PlaylistSettingsStore(context: Context) {
     }
 
     companion object {
-        private const val KEY_CUSTOM_URL = "custom_playlist_url"
+        private const val KEY_CUSTOM_URL = "https://iptv-org.github.io/iptv/index.m3u"
     }
 }
