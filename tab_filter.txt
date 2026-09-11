@@ -70,7 +70,7 @@ semua
 #VOD INDO
 #WorldCup 2026
 
-# --- Kategori baru terdeteksi otomatis (2026-09-11 17:38) ---
+# --- Kategori baru terdeteksi otomatis (2026-09-11 17:41) ---
 AIRTEL
 CANALE TV
 CN 🇨🇳/HK 🇭🇰/TW 🇹🇼
