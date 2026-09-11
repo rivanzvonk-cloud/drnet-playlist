@@ -17,6 +17,8 @@ http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="FAVORIT",MOJI (DNS)
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/antv.jpg" group-title="FAVORIT",ANTV (VDO)
+http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/rtv.jpg" group-title="FAVORIT",RTV (FEED)
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/metrotv.jpg" group-title="FAVORIT",METRO TV (DNS)
