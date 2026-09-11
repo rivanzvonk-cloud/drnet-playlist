@@ -94,6 +94,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 #EXTHTTP:{"Referer":"http://www.vidio.com/","referrer":"http://www.vidio.com/","Origin":"http://www.vidio.com","User-Agent":"VidioPlayer/6.31.6","user-agent":"VidioPlayer/6.31.6"}
 http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/rtv.jpg" group-title="FAVORIT",RTV (DENS)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.dens.tv/|referrer=http://www.dens.tv/|Origin=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTHTTP:{"Referer":"http://www.dens.tv/","referrer":"http://www.dens.tv/","Origin":"","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36"}
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
+
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/metrotv.jpg" group-title="FAVORIT",METRO TV (DNS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=|referrer=|Origin=|User-Agent=Mozilla/5.0|user-agent=Mozilla/5.0
@@ -105,6 +112,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=|referrer=|Origin=|User-Agent=Mozilla/5.0|user-agent=Mozilla/5.0
 #EXTHTTP:{"Referer":"","referrer":"","Origin":"","User-Agent":"Mozilla/5.0","user-agent":"Mozilla/5.0"}
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/daaitv.jpg" group-title="FAVORIT",DAAI TV (FEED)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=|referrer=|Origin=|User-Agent=Mozilla/5.0|user-agent=Mozilla/5.0
+#EXTHTTP:{"Referer":"","referrer":"","Origin":"","User-Agent":"Mozilla/5.0","user-agent":"Mozilla/5.0"}
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/elshintatv.jpg" group-title="FAVORIT",ELSHINTA TV (DNS)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -119,10 +132,29 @@ https://op-flashcon-digdayasd-1.dens.tv/h/h216/stream.m3u8?app_type=web&userid=l
 #EXTHTTP:{"Referer":"","referrer":"","Origin":"","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"}
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/tvriworld.jpg" group-title="FAVORIT",33. TVRI WORLD (FEED)
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://klik.tvri.go.id/|referrer=https://klik.tvri.go.id/|Origin=|User-Agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1|user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTHTTP:{"Referer":"https://klik.tvri.go.id/","referrer":"https://klik.tvri.go.id/","Origin":"","User-Agent":"TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1","user-agent":"TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"}
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/iNews.png" group-title="FAVORIT",iNews (R+)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.rctiplus.com/|referrer=https://www.rctiplus.com/|Origin=|User-Agent=android-R+|user-agent=android-R+
 #EXTHTTP:{"Referer":"https://www.rctiplus.com/","referrer":"https://www.rctiplus.com/","Origin":"","User-Agent":"android-R+","user-agent":"android-R+"}
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c4qsxIn.png" group-title="FAVORIT",BERITA SATU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=|referrer=|Origin=|User-Agent=Mozilla/5.0|user-agent=Mozilla/5.0
+#EXTHTTP:{"Referer":"","referrer":"","Origin":"","User-Agent":"Mozilla/5.0","user-agent":"Mozilla/5.0"}
+https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
+
+#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/rtv.png" group-title="FAVORIT",Rajawali TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=|referrer=|Origin=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTHTTP:{"Referer":"","referrer":"","Origin":"","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"}
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
