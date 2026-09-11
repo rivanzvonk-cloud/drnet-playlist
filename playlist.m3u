@@ -2,22 +2,6 @@
 
 ########################################################################
 
-#EXTINF:-1 type="playlist",live_on_2025
-#https://raw.githubusercontent.com/MayToko/Kopi/main/live_on_2025
-
-#EXTINF:-1 type="playlist",MAYTOKO2
-#https://raw.githubusercontent.com/MayToko/sport_m3u/main/MAYTOKO2.m3u8
-
-#EXTINF:-1 type="playlist",new2025
-#https://raw.githubusercontent.com/MayToko/Kopi/main/new2025
-
-#EXTINF:-1 type="playlist",Test
-#https://raw.githubusercontent.com/MayToko/Adult/main/Test
-
-
-
-
-
 #EXTINF:-1 type="playlist",shareext
 #https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/shareext.m3u
 
