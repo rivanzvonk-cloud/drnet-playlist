@@ -71,7 +71,7 @@ INTERNASIONAL
 #United Kingdom
 #United States
 #Vietnam
-VOD INDO
+#VOD INDO
 #WorldCup 2026
 
 # --- Kategori baru terdeteksi otomatis (2026-09-11 17:41) ---
