@@ -118,7 +118,7 @@ VOD INDO
 #⭐⭐SPORTS⭐⭐
 #📂 HIBURAN
 #📂 SPORT
-#📅 JADWAL HARI INI
+📅 JADWAL HARI INI
 #🔴 SEDANG TAYANG
 
 # --- Kategori baru terdeteksi otomatis (2026-09-11 17:57) ---
