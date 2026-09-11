@@ -1,4 +1,4 @@
-*
+#*
 semua
 LOKAL
 #tv indonesia
