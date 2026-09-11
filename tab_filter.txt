@@ -1,4 +1,5 @@
 semua
+LOKAL
 #tv indonesia
 #Animation / Anime Channels
 #Argentina
@@ -200,4 +201,3 @@ semua
 #日本 / Japan
 
 # --- Kategori baru terdeteksi otomatis (2026-09-11 18:22) ---
-LOKAL
