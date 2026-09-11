@@ -120,81 +120,81 @@ semua
 #🔴 SEDANG TAYANG
 
 # --- Kategori baru terdeteksi otomatis (2026-09-11 17:57) ---
-Albania
-Andorra
-Armenia
-Australia
-Austria
-Azerbaijan
-Belarus
-Belgium
-Bosnia and Herzegovina
-Bulgaria
-Business
-Canada
-Chad
-Chile
-Costa Rica
-Croatia
-Cyprus
-Czech Republic
-Denmark
-Documentaries (AR)
-Documentaries (EN)
-Dominican Republic
-Estonia
-Faroe Islands
-Finland
-Georgia
-Greece
-Greenland
-Hong Kong
-Hungary
-Iceland
-Iraq
-Ireland
-Israel
-Kazakhstan
-Kosovo
-Latvia
-Lebanon
-Lithuania
-Luxembourg
-Macau
-Malta
-Moldova
-Monaco
-Mongolia
-Montenegro
-Music (EN)
-Netherlands
-News (AR)
-News (ES)
-North Korea
-North Macedonia
-Norway
-Paraguay
-Peru
-Poland
-Portugal
-Qatar
-Romania
-San Marino
-Serbia
-Slovakia
-Slovenia
-Somalia
-Sweden
-Switzerland
-Taiwan
-Trinidad
-Turkmenistan
-UK
-Ukraine
-United Arab Emirates
-USA
-Venezuela
-VOD Italy
-VOD Movies (EN)
-Weather
-日本 / Japan
+#Albania
+#Andorra
+#Armenia
+#Australia
+#Austria
+#Azerbaijan
+#Belarus
+#Belgium
+#Bosnia and Herzegovina
+#Bulgaria
+#Business
+#Canada
+#Chad
+#Chile
+#Costa Rica
+#Croatia
+#Cyprus
+#Czech Republic
+#Denmark
+#Documentaries (AR)
+#Documentaries (EN)
+#Dominican Republic
+#Estonia
+#Faroe Islands
+#Finland
+#Georgia
+#Greece
+#Greenland
+#Hong Kong
+#Hungary
+#Iceland
+#Iraq
+#Ireland
+#Israel
+#Kazakhstan
+#Kosovo
+#Latvia
+#Lebanon
+#Lithuania
+#Luxembourg
+#Macau
+#Malta
+#Moldova
+#Monaco
+#Mongolia
+#Montenegro
+#Music (EN)
+#Netherlands
+#News (AR)
+#News (ES)
+#North Korea
+#North Macedonia
+#Norway
+#Paraguay
+#Peru
+#Poland
+#Portugal
+#Qatar
+#Romania
+#San Marino
+#Serbia
+#Slovakia
+#Slovenia
+#Somalia
+#Sweden
+#Switzerland
+#Taiwan
+#Trinidad
+#Turkmenistan
+#UK
+#Ukraine
+#United Arab Emirates
+#USA
+#Venezuela
+#VOD Italy
+#VOD Movies (EN)
+#Weather
+#日本 / Japan
