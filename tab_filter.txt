@@ -198,3 +198,6 @@ semua
 #VOD Movies (EN)
 #Weather
 #日本 / Japan
+
+# --- Kategori baru terdeteksi otomatis (2026-09-11 18:21) ---
+LOKAL
