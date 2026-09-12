@@ -1,1 +1,69 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/npPL9VlWMJ5owmeupR7ucPjdGl4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png" group-title="FAVORIT",Nusantara TV (ChannelFeed)
+#EXTVLCOPT:http-referrer=https://cdn.siar.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://cdn.siar.us/|referrer=https://cdn.siar.us/|Origin=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://cdn.siar.us/","referrer":"https://cdn.siar.us/","Origin":"","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg" group-title="FAVORIT",IDX (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-origin=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.visionplus.id/|referrer=https://www.visionplus.id/|Origin=https://www.visionplus.id|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTHTTP:{"Referer":"https://www.visionplus.id/","referrer":"https://www.visionplus.id/","Origin":"https://www.visionplus.id","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"}
+https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="FAVORIT",Idx V (🚀7926)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-origin=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.visionplus.id/|referrer=https://www.visionplus.id/|Origin=https://www.visionplus.id|User-Agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1|user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTHTTP:{"Referer":"https://www.visionplus.id/","referrer":"https://www.visionplus.id/","Origin":"https://www.visionplus.id","User-Agent":"Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1","user-agent":"Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1"}
+https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="FAVORIT",🆕IDX (247)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-origin=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.visionplus.id/|referrer=https://www.visionplus.id/|Origin=https://www.visionplus.id|User-Agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1|user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTHTTP:{"Referer":"https://www.visionplus.id/","referrer":"https://www.visionplus.id/","Origin":"https://www.visionplus.id","User-Agent":"Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1","user-agent":"Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1"}
+https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="FAVORIT",🆕IDX (🚀8826)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-origin=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.visionplus.id/|referrer=https://www.visionplus.id/|Origin=https://www.visionplus.id|User-Agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1|user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTHTTP:{"Referer":"https://www.visionplus.id/","referrer":"https://www.visionplus.id/","Origin":"https://www.visionplus.id","User-Agent":"Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1","user-agent":"Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1"}
+https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/nusantaratv.jpg" group-title="FAVORIT",NUSANTARA TV (FEED)
+#EXTVLCOPT:http-referrer=https://nusantaratv.siar.us/
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://nusantaratv.siar.us/|referrer=https://nusantaratv.siar.us/|Origin=|User-Agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1|user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTHTTP:{"Referer":"https://nusantaratv.siar.us/","referrer":"https://nusantaratv.siar.us/","Origin":"","User-Agent":"ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1","user-agent":"ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"}
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/nusantaratv.jpg" group-title="FAVORIT",36. NUSANTARA TV (FEED)
+#EXTVLCOPT:http-referrer=https://nusantaratv.siar.us/
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://nusantaratv.siar.us/|referrer=https://nusantaratv.siar.us/|Origin=|User-Agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1|user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTHTTP:{"Referer":"https://nusantaratv.siar.us/","referrer":"https://nusantaratv.siar.us/","Origin":"","User-Agent":"ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1","user-agent":"ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"}
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg" group-title="FAVORIT",IDX Channel
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-origin=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.visionplus.id/|referrer=https://www.visionplus.id/|Origin=https://www.visionplus.id|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTHTTP:{"Referer":"https://www.visionplus.id/","referrer":"https://www.visionplus.id/","Origin":"https://www.visionplus.id","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"}
+https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="FAVORIT",03. INDOSIAR 1
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://m.vidio.com/|referrer=https://m.vidio.com/|Origin=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://m.vidio.com/","referrer":"https://m.vidio.com/","Origin":"","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36"}
+https://boti.my.id/index.mpd?u=abidin4593%40gmail.com&x=vHJvMUASXycSgCFimWfm&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjE0NjI4OTAxNX0sImV4cCI6MTc4NzkzMjQyN30.jv8FKowzUm8qQYCKCefSjrJAyB2joxFdV3sqNEBU0HU&id=205&type=dash
+
