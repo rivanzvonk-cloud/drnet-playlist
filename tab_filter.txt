@@ -1,6 +1,6 @@
 semua
 LOKAL
-# NTERNASIONAL -- sudah tidak ada di playlist
+NTERNASIONAL
 
 #*
 #tv indonesia
@@ -263,14 +263,9 @@ LOKAL
 #VOD TRIAL
 
 # --- Kategori baru terdeteksi otomatis (2026-09-12 11:37) ---
-AGAMA 
+#AGAMA 
 # BOLA | LEAGUE CUP -- sudah tidak ada di playlist
-DUNIA | SINGAPURA 
-INTERNASIONAL
+#DUNIA | SINGAPURA 
+#INTERNASIONAL
 # LIVE NOW 12 SEPTEMBER 2026 -- sudah tidak ada di playlist
 # ⚽ LIVE FOOTBALL 2026-09-13 -- sudah tidak ada di playlist
-
-# --- Kategori baru terdeteksi otomatis (2026-09-12 11:43) ---
-AGAMA 
-BOLA | LEAGUE CUP 
-DUNIA | SINGAPURA 
