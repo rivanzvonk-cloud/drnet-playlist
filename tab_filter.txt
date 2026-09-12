@@ -208,8 +208,8 @@ NTERNASIONAL
 # --- Kategori baru terdeteksi otomatis (2026-09-12 02:14) ---
 #AGAMA
 #AGAMA 
-#ANAK
-#BERITA
+ANAK
+BERITA
 #BOLA | ASEAN CHAMPIONSHIP 2026
 #BOLA | ASEAN U19 Championship 2026
 #BOLA | BRI LIGA 1
@@ -266,6 +266,5 @@ NTERNASIONAL
 #AGAMA 
 # BOLA | LEAGUE CUP -- sudah tidak ada di playlist
 #DUNIA | SINGAPURA 
-#INTERNASIONAL
 # LIVE NOW 12 SEPTEMBER 2026 -- sudah tidak ada di playlist
 # ⚽ LIVE FOOTBALL 2026-09-13 -- sudah tidak ada di playlist
