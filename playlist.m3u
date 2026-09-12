@@ -1,9 +1,5 @@
 #EXTM3U 
-
-
-
 ######################################################################## HASIL SORTIR INDO ########################################################################
-
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0r_rhIVANc6dsGvQ76616ZSqF04=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png" group-title="LOKAL",DAAI TV HD
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
@@ -83,7 +79,6 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 #EXTHTTP:{"Referer":"https://m.vidio.com/","referrer":"https://m.vidio.com/","Origin":"","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"}
 https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 
-
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/rtv.jpg" group-title="LOKAL",RTV (DENS)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -102,7 +97,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=|referrer=|Origin=|User-Agent=Mozilla/5.0|user-agent=Mozilla/5.0
 #EXTHTTP:{"Referer":"","referrer":"","Origin":"","User-Agent":"Mozilla/5.0","user-agent":"Mozilla/5.0"}
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
-
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/elshintatv.jpg" group-title="LOKAL",ELSHINTA TV (DNS)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -143,13 +137,11 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 https://boti.my.id/index.mpd?u=abidin4593%40gmail.com&x=vHJvMUASXycSgCFimWfm&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjE0NjI4OTAxNX0sImV4cCI6MTc4NzkzMjQyN30.jv8FKowzUm8qQYCKCefSjrJAyB2joxFdV3sqNEBU0HU&id=205&type=dash
 
 
-
 ######################################################################## HASIL SORTIR INDO  ########################################################################
 
 ######################################################################## HASIL SORTIR INTERNASION  ########################################################################
 
 
-#EXTM3U
 #EXTINF:-1 group-title="INTERNASIONAL",beIN Sports ENG 1 (720p)
 https://bein-xtra-bein.amagi.tv/playlistR720P.m3u8
 
@@ -180,13 +172,11 @@ https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="INTERNASIONAL",NHK World Japan (Channel Feed)
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vyrc1I1.png" group-title="INTERNASIONAL",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" group-title="INTERNASIONAL",FOX Live Now
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="INTERNASIONAL",Al Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
@@ -197,10 +187,8 @@ https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playli
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" group-title="INTERNASIONAL",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/koFYddE.png" group-title="INTERNASIONAL",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9q3Q9d.png" group-title="INTERNASIONAL",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8
@@ -254,14 +242,11 @@ https://cdnbal1.indihometv.com/atm/DASH/axn/axn-avc1_2500000=7-3277707030000000.
 #EXTHTTP:{"Referer":"https://maxstream.tv/","referrer":"https://maxstream.tv/","Origin":"","User-Agent":"IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/150.0.0.0 Safari/537.36","user-agent":"IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/150.0.0.0 Safari/537.36"}
 https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
 
-
-
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/news/cnn.jpg" group-title="INTERNASIONAL",CNN INT (FEED)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=|referrer=|Origin=|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTHTTP:{"Referer":"","referrer":"","Origin":"","User-Agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","user-agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"}
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/nick.jpg" group-title="INTERNASIONAL",NICK (MAX)
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
@@ -287,20 +272,14 @@ https://cdnbal1.indihometv.com/atm/DASH/mykids/mykids-avc1_2500000=7-32777070300
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg" group-title="INTERNASIONAL",BeIN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/biznetkids.png" group-title="INTERNASIONAL",Biznet Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=|referrer=|Origin=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTHTTP:{"Referer":"","referrer":"","Origin":"","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"}
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_davinci.png" group-title="INTERNASIONAL",Da Vinci Learning
 https://cdnbal1.indihometv.com/atm/DASH/davinci/davinci-avc1_2500000=7-3277707030000000.mpd
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://pic.dens.tv/tv_183x174/Motorvision+_new%20logo183x174@3x.jpg" group-title="INTERNASIONAL",Motorvision
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -314,11 +293,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h09/index.m3u8
 #EXTHTTP:{"Referer":"","referrer":"","Origin":"","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"}
 https://op-flashcon-digdayahd-1.dens.tv/h/h71/wedo_sport.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7Z0hB2q/ezgif-84287ddb8ead5208.png" group-title="INTERNASIONAL",UFC_
 http://tv.cloudcdn.me/live.ts?channelId=132120&uid=10223&deviceMac=00:1A:79:07:07:43
-
-
 
 
 ######################################################################## HASIL SORTIR INTERNASION  ########################################################################
