@@ -1,4 +1,4 @@
-# Ditulis ulang otomatis dari playlist.m3u (2026-09-12 22:50)
+# Ditulis ulang otomatis dari playlist.m3u (2026-09-12 22:52)
 # Baris TANPA "#" di depan = tab AKTIF/tampil. Baris berawalan "#" = tab NON-AKTIF/tersembunyi.
 
 # AGAMA
@@ -40,7 +40,7 @@
 # HBO
 # HBO GROUP
 Indonesia
-Indonesia Channels
+# Indonesia Channels
 # INDONESIA TV
 INTERNASIONAL
 # JAPAN
