@@ -1,4 +1,4 @@
-# Ditulis ulang otomatis dari playlist.m3u (2026-09-13 00:24)
+# Ditulis ulang otomatis dari playlist.m3u (2026-09-13 00:26)
 # Baris TANPA "#" di depan = tab AKTIF/tampil. Baris berawalan "#" = tab NON-AKTIF/tersembunyi.
 
 AGAMA
@@ -76,7 +76,7 @@ OLAHRAGA | GOLF
 OLAHRAGA | MOTOR GP
 OLAHRAGA | UFC
 OLAHRAGA | VOLLYBALL
-ORDER DISINI 📲 Wa 082219213334
+# ORDER DISINI 📲 Wa 082219213334
 PENGETAHUAN
 PLUTO
 RELIGI
