@@ -270,3 +270,8 @@ INTERNASIONAL
 # ⚽ LIVE FOOTBALL 2026-09-13 -- sudah tidak ada di playlist
 
 
+
+# --- Kategori baru terdeteksi otomatis (2026-09-12 21:28) ---
+AGAMA 
+BOLA | LEAGUE CUP 
+DUNIA | SINGAPURA 
