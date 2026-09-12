@@ -1,4 +1,4 @@
-# Ditulis ulang otomatis dari playlist.m3u (2026-09-12 22:38)
+# Ditulis ulang otomatis dari playlist.m3u (2026-09-12 22:39)
 # Baris TANPA "#" di depan = tab AKTIF/tampil. Baris berawalan "#" = tab NON-AKTIF/tersembunyi.
 
 # AGAMA
@@ -78,11 +78,11 @@ LOKAL
 # OLAHRAGA | VOLLYBALL
 # ORDER DISINI 📲 Wa 082219213334
 # PENGETAHUAN
-PLUTO
-RELIGI
-RELIGION
-ROKU
-SAMSUNG
+# PLUTO
+# RELIGI
+# RELIGION
+# ROKU
+# SAMSUNG
 semua
 # SHAREEXT@ VISION•PLUS
 # ShareExt@Relax
@@ -92,7 +92,7 @@ semua
 # TCL
 # WORLD TV
 # XUMO
-▶ HBO MAX
+# ▶ HBO MAX
 # ⚽ LIVE FOOTBALL 2026-09-12
 # ⚽ LIVE FOOTBALL 2026-09-13
 # ⭐ ALL SPORTS CHANNELS
