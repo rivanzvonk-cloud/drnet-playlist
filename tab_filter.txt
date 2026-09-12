@@ -262,7 +262,7 @@ LOKAL
 #VOD LOKAL
 #VOD TRIAL
 
-# --- Kategori baru terdeteksi otomatis (2026-09-12 11:36) ---
+# --- Kategori baru terdeteksi otomatis (2026-09-12 11:37) ---
 AGAMA 
 BOLA | LEAGUE CUP 
 DUNIA | SINGAPURA 
