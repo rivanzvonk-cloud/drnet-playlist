@@ -1,4 +1,4 @@
-# Ditulis ulang otomatis dari playlist.m3u (2026-09-12 22:58)
+# Ditulis ulang otomatis dari playlist.m3u (2026-09-12 23:01)
 # Baris TANPA "#" di depan = tab AKTIF/tampil. Baris berawalan "#" = tab NON-AKTIF/tersembunyi.
 
 # AGAMA
@@ -29,7 +29,6 @@
 # DUNIA | SINGAPURA 
 # DUNIA | TAIWAN ETC
 # DUNIA | THAILAND NON SUB
-# FAVORIT
 # FILM
 # FILM NON SUB
 # GAYA HIDUP
