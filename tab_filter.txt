@@ -1,282 +1,62 @@
-semua
-LOKAL
+# Ditulis ulang otomatis dari playlist.m3u (2026-09-12 22:16)
+# Baris TANPA "#" di depan = tab AKTIF/tampil. Baris berawalan "#" = tab NON-AKTIF/tersembunyi.
+
+# AGAMA
+# AGAMA 
+# ANAK
+# BERITA
+# BOLA | BRI LIGA 1
+# BOLA | BUNDESLIGA
+# BOLA | DFL-SUPERCUP
+# BOLA | FA CUP
+# BOLA | FRIENDLY MATCH
+# BOLA | LALIGA
+# BOLA | LEAGUE CUP 
+# BOLA | LIGA INGGRIS
+# BOLA | LIGUE 1
+# BOLA | PIALA DUNIA 2026
+# BOLA | SAUDI PRO LEAGUE
+# BOLA | SERIE A
+# DAERAH
+# DUNIA | AMERIKA NON SUB
+# DUNIA | CHINA
+# DUNIA | INDIA NON SUB
+# DUNIA | JEPANG NON SUB
+# DUNIA | KOREA
+# DUNIA | KOREA NON SUB
+# DUNIA | MALAYSIA
+# DUNIA | SINGAPURA
+# DUNIA | SINGAPURA 
+# DUNIA | TAIWAN ETC
+# DUNIA | THAILAND NON SUB
+# FILM
+# FILM NON SUB
+# GAYA HIDUP
+# HBO
 INTERNASIONAL
-
-#*
-#tv indonesia
-#Animation / Anime Channels
-#Argentina
-#Auto / Motor / Otomotif Channels
-#Bangladesh
-#Brazil
-#Brunei
-#China
-#Christian Channels
-#Colombia
-#Comedy Channels
-#Documentary Channels
-#Egypt
-#Entertainment
-#Entertainment & LifeStyle
-#Entertainment Channels
-#Family Channels
-#France
-#General Channels
-#Germany
-#HBO Group
-#India
-#INDIHOME
-#Indonesia Channels
-#Indonesian Entertainment & Movies
-#International
-#Internet Radio
-#Iran
-#Italy
-#Italy Channels
-#Japan
-#Kenya
-#Kids
-#Kids Channels
-#Knowledge and Documentary
-#Korea
-#Local Channels
-#Malaysia
-#Mediacorp Singapore
-#Mexico
-#MOVIES & ENTERTAINMENT
-#Movies Channels
-#Music
-#Music Channels
-#Nasional
-#News
-#News Channels
-#Nigeria
-#Pakistan
-#Philippines
-#Premium Movies
-#Religious Channels
-#Russia
-#Saudi Arabia
-#Series Channels
-#South Africa
-#Spain
-#Sports
-#Sports Channels
-#Sports Indo
-#Thailand
-#Turkey
-#TV HIBURAN
-#TVRI Group
-#UAE & Arab
-#United Kingdom
-#United States
-#Vietnam
-#VOD INDO
-#WorldCup 2026
-
-# --- Kategori baru terdeteksi otomatis (2026-09-11 17:41) ---
-#AIRTEL
-#CANALE TV
-#CN 🇨🇳/HK 🇭🇰/TW 🇹🇼
-#Daerah
-#Global Premium
-#Indonesia
-#INDONESIA TV
-#Kids Channel
-#KNOWLEDGE
-#Knowledge
-#Lainnya
-#LIFESTYLE
-#Lifestyle
-#Live Events
-#LIVE NOW 11 SEPTEMBER 2026
-#MotoGP
-#MOVIES
-#Movies
-#NEXT LIVE
-#PLUTO
-#RELIGI
-#Religi
-#RELIGION
-#ROKU
-#SAMSUNG
-#SHAREEXT@ VISION•PLUS
-#ShareExt@Relax
-#SPORT
-#SPORT CHANNELS
-#TCL
-#VISION+
-#WORLD TV
-#XUMO
-#▶ HBO MAX
-#⚽ LIVE FOOTBALL 2026-09-11
-#⚽ LIVE FOOTBALL 2026-09-12
-#⭐ ALL SPORTS CHANNELS
-#⭐ENTERTAINMENT⭐
-#⭐KNOWLEDGE⭐
-#⭐MOVIES⭐
-#⭐MUSIC⭐
-#⭐SPORTS⭐
-#⭐⭐SPORTS⭐⭐
-#📂 HIBURAN
-#📂 SPORT
-#📅 JADWAL HARI INI
-#🔴 SEDANG TAYANG
-
-# --- Kategori baru terdeteksi otomatis (2026-09-11 17:57) ---
-#Albania
-#Andorra
-#Armenia
-#Australia
-#Austria
-#Azerbaijan
-#Belarus
-#Belgium
-#Bosnia and Herzegovina
-#Bulgaria
-#Business
-#Canada
-#Chad
-#Chile
-#Costa Rica
-#Croatia
-#Cyprus
-#Czech Republic
-#Denmark
-#Documentaries (AR)
-#Documentaries (EN)
-#Dominican Republic
-#Estonia
-#Faroe Islands
-#Finland
-#Georgia
-#Greece
-#Greenland
-#Hong Kong
-#Hungary
-#Iceland
-#Iraq
-#Ireland
-#Israel
-#Kazakhstan
-#Kosovo
-#Latvia
-#Lebanon
-#Lithuania
-#Luxembourg
-#Macau
-#Malta
-#Moldova
-#Monaco
-#Mongolia
-#Montenegro
-#Music (EN)
-#Netherlands
-#News (AR)
-#News (ES)
-#North Korea
-#North Macedonia
-#Norway
-#Paraguay
-#Peru
-#Poland
-#Portugal
-#Qatar
-#Romania
-#San Marino
-#Serbia
-#Slovakia
-#Slovenia
-#Somalia
-#Sweden
-#Switzerland
-#Taiwan
-#Trinidad
-#Turkmenistan
-#UK
-#Ukraine
-#United Arab Emirates
-#USA
-#Venezuela
-#VOD Italy
-#VOD Movies (EN)
-#Weather
-#日本 / Japan
-
-# --- Kategori baru terdeteksi otomatis (2026-09-11 19:24) ---
-
-# --- Kategori baru terdeteksi otomatis (2026-09-12 02:14) ---
-#AGAMA
-#AGAMA 
-#ANAK
-#BERITA
-#BOLA | ASEAN CHAMPIONSHIP 2026
-#BOLA | ASEAN U19 Championship 2026
-#BOLA | BRI LIGA 1
-#BOLA | BUNDESLIGA
-#BOLA | DFL-SUPERCUP
-#BOLA | FA CUP
-#BOLA | FRIENDLY MATCH
-#BOLA | LALIGA
-#BOLA | LEAGUE CUP 
-#BOLA | LIGA INGGRIS
-#BOLA | LIGUE 1
-#BOLA | PIALA DUNIA 2026
-#BOLA | SAUDI PRO LEAGUE
-#BOLA | SERIE A
-#DUNIA | AMERIKA NON SUB
-#DUNIA | CHINA
-#DUNIA | INDIA NON SUB
-#DUNIA | JEPANG NON SUB
-#DUNIA | KOREA
-#DUNIA | KOREA NON SUB
-#DUNIA | MALAYSIA
-#DUNIA | SINGAPURA
-#DUNIA | SINGAPURA 
-#DUNIA | TAIWAN ETC
-#DUNIA | THAILAND NON SUB
-#FILM
-#FILM NON SUB
-#GAYA HIDUP
-#HBO
-#MAGELIFE INFORMATION
-#OLAHRAGA LOKAL
-#OLAHRAGA LOKAL;OLAHRAGA POPULER 2;OLAHRAGA POPULER 3;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LALIGA;BOLA | BUNDESLIGABOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;OLAHRAGA | UFC
-#OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL
-#OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | LALIGA;OLAHRAGA | FORMULA 1
-#OLAHRAGA POPULER
-#OLAHRAGA POPULER 2
-#OLAHRAGA POPULER 3
-#OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP
-#OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | LALIGA
-#OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE
-#OLAHRAGA | BADMINTON
-#OLAHRAGA | BILLIARD
-#OLAHRAGA | FORMULA 1
-#OLAHRAGA | GOLF
-#OLAHRAGA | MOTOR GP
-#OLAHRAGA | UFC
-#OLAHRAGA | VOLLYBALL
-#ORDER DISINI 📲 Wa 082219213334
-#PENGETAHUAN
-#VOD LOKAL
-#VOD TRIAL
-
-# --- Kategori baru terdeteksi otomatis (2026-09-12 11:37) ---
-#AGAMA 
-# BOLA | LEAGUE CUP -- sudah tidak ada di playlist
-#DUNIA | SINGAPURA 
-# LIVE NOW 12 SEPTEMBER 2026 -- sudah tidak ada di playlist
-# ⚽ LIVE FOOTBALL 2026-09-13 -- sudah tidak ada di playlist
-
-
-
-# --- Kategori baru terdeteksi otomatis (2026-09-12 21:28) ---
-# AGAMA -- sudah tidak ada di playlist
-# BOLA | LEAGUE CUP -- sudah tidak ada di playlist
-# DUNIA | SINGAPURA -- sudah tidak ada di playlist
-
-# --- Kategori baru terdeteksi otomatis (2026-09-12 22:02) ---
-AGAMA 
-BOLA | LEAGUE CUP 
-DUNIA | SINGAPURA 
+# Lainnya
+LOKAL
+# MAGELIFE INFORMATION
+# MUSIC
+# NASIONAL
+# OLAHRAGA LOKAL
+# OLAHRAGA LOKAL;OLAHRAGA POPULER 2;OLAHRAGA POPULER 3;BOLA | LIGA INGGRIS;BOLA | SERIE A;BOLA | LALIGA;BOLA | BUNDESLIGABOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE;OLAHRAGA | UFC
+# OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL
+# OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | LALIGA;OLAHRAGA | FORMULA 1
+# OLAHRAGA POPULER
+# OLAHRAGA POPULER 2
+# OLAHRAGA POPULER 3
+# OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP
+# OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | LALIGA
+# OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE
+# OLAHRAGA | BADMINTON
+# OLAHRAGA | BILLIARD
+# OLAHRAGA | FORMULA 1
+# OLAHRAGA | GOLF
+# OLAHRAGA | MOTOR GP
+# OLAHRAGA | UFC
+# OLAHRAGA | VOLLYBALL
+# ORDER DISINI 📲 Wa 082219213334
+# PENGETAHUAN
+semua
+# ⭐⭐SPORTS⭐⭐
