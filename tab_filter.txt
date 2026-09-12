@@ -1,4 +1,4 @@
-# Ditulis ulang otomatis dari playlist.m3u (2026-09-12 22:17)
+# Ditulis ulang otomatis dari playlist.m3u (2026-09-12 22:22)
 # Baris TANPA "#" di depan = tab AKTIF/tampil. Baris berawalan "#" = tab NON-AKTIF/tersembunyi.
 
 # AGAMA
@@ -32,7 +32,7 @@
 # FILM
 # FILM NON SUB
 # GAYA HIDUP
-# HBO
+HBO
 INTERNASIONAL
 # Lainnya
 LOKAL
