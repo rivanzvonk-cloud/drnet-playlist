@@ -1,11 +1,11 @@
-# Ditulis ulang otomatis dari playlist.m3u (2026-09-12 23:27)
+# Ditulis ulang otomatis dari playlist.m3u (2026-09-12 23:29)
 # Baris TANPA "#" di depan = tab AKTIF/tampil. Baris berawalan "#" = tab NON-AKTIF/tersembunyi.
 
-AGAMA
-AGAMA 
+# AGAMA
+# AGAMA 
 AIRTEL
 ANAK
-# BERITA
+BERITA
 # BOLA | BRI LIGA 1
 # BOLA | BUNDESLIGA
 # BOLA | DFL-SUPERCUP
