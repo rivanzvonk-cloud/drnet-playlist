@@ -276,7 +276,7 @@ INTERNASIONAL
 # BOLA | LEAGUE CUP -- sudah tidak ada di playlist
 # DUNIA | SINGAPURA -- sudah tidak ada di playlist
 
-# --- Kategori baru terdeteksi otomatis (2026-09-12 21:59) ---
+# --- Kategori baru terdeteksi otomatis (2026-09-12 22:02) ---
 AGAMA 
 BOLA | LEAGUE CUP 
 DUNIA | SINGAPURA 
