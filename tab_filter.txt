@@ -1,6 +1,6 @@
 semua
-LOKAL
-INTERNASIONAL
+# LOKAL -- sudah tidak ada di playlist
+# INTERNASIONAL -- sudah tidak ada di playlist
 
 #*
 #tv indonesia
