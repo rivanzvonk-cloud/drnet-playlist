@@ -274,4 +274,4 @@ INTERNASIONAL
 # --- Kategori baru terdeteksi otomatis (2026-09-12 21:28) ---
 # AGAMA -- sudah tidak ada di playlist
 BOLA | LEAGUE CUP 
-DUNIA | SINGAPURA 
+# DUNIA | SINGAPURA -- sudah tidak ada di playlist
